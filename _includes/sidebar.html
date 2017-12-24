@@ -3,7 +3,7 @@
                  
      <div class="sidebar-wrapper">
             <div class="profile-container">
-                <img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.png{% endif %}" alt="profile picture" />
+                <img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.jpg{% endif %}" alt="profile picture" />
                 <h1 class="name">{% if site.name %}{{site.name}}{% else %}Alan Doe{% endif %}</h1>
                 <h3 class="tagline">{% if site.tagline %}{{site.tagline}}{% else %}Full Stack Developer{% endif %}</h3>
             </div><!--//profile-container-->
@@ -27,6 +27,10 @@
                     <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.github}}</a></li>
                     {% else %}
                     <li class="github"><i class="fa fa-github"></i><a href="http://github.com/sharu725" target="_blank">github.com/sharu725</a></li>
+                    {% endif %}
+
+                    {% if site.xing %}
+                    <li class="xing"><i class="fa fa-xing"></i><a href="https://www.xing.com/profile/{{site.xing}}" target="_blank">{{site.xing}}</a></li>
                     {% endif %}
                     
                     {% if site.twitter %}
