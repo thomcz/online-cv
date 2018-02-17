@@ -1,23 +1,14 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Im folgenden eine Auswahl privater Projekte an denen ich immer wieder in meiner Freizeit arbeite."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: HRV Band
+    link: "https://github.com/HRVBand/hrv-band"
+    tagline: "Eine Android Fitness App zum Messen der Herzratenvariabilität (HRV) mithilfe eines Wearables."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Face Pi
+    link: "https://github.com/thomcz/face-pi"
+    tagline: "Erkenne mithilfe eines Raspberry Pi und Microsoft Face API ob eine Person das Haus betreten darf und Benachrichtige den Besitzer, wenn nicht. Gewinner des Microsoft Student Nikolaus Hackathons 2016 am KIT."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Weitere
+    link: "https://github.com/thomcz"
+    tagline: "Projekte können auf Github gefunden werden."
