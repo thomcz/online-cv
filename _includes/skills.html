@@ -1,11 +1,30 @@
 {% if site.data.skills %}
 <section class="skills-section section">
 
-  <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+  <h2 class="section-title"><i class="fa fa-rocket"></i>Programmiersprachen</h2>
 
   <div class="skillset">
 
-    {% for skill in site.data.skills %}
+    {% for skill in site.data.skills_programming %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+  
+  <h2 class="section-title"><i class="fa fa-rocket"></i>Programmiersprachen</h2>
+
+  <div class="skillset">
+
+    {% for skill in site.data.skills_plattform %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
@@ -20,5 +39,24 @@
 
   </div>
 
+  <h2 class="section-title"><i class="fa fa-rocket"></i>Programmiersprachen</h2>
+
+  <div class="skillset">
+
+    {% for skill in site.data.skills_ide %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+  
 </section><!--//skills-section-->
 {% endif %}
