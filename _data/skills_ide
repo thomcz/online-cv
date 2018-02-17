@@ -1,6 +1,12 @@
 - skill:
-  name: Android
+  name: Eclipse
   level: 90%
 - skill:
-  name: Eclipse (Plug-in Entwicklung)
+  name: Android Studio
   level: 90%
+- skill:
+  name: IntelliJ
+  level: 75%
+- skill:
+  name: Visual Studio
+  level: 60%
