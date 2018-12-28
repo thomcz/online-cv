@@ -2,14 +2,8 @@
   name: Java
   level: 90%
 - skill:
-  name: Xtend
-  level: 75%
-- skill:
-  name: Xtext
-  level: 75%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
   name: C#
-  level: 60%
+  level: 50%
+- skill:
+  name: C++
+  level: 40%
