@@ -1,10 +1,6 @@
 intro: "Im folgenden eine Aufzählung der Projekte an denen ich während meiner Werkstudenttätigkeit beteiligt war."
 projects:
   - project:
-    title: BWCPS
-    link: "#"
-    tagline: "weitere Infos folgen"
-  - project:
     title: Cooperate
     link: "https://github.com/Cooperate-Project/CooperateModelingEnvironment"
     tagline: "Modellierungsumgebung zum gemeinsamen Arbeiten an einem UML Modell für sehende und sehbehinderte Entwickler."
