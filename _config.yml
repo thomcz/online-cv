@@ -16,25 +16,29 @@ about: True # set to False or comment line if you want to remove the "How to use
 #Profile information
 #Profile information
 name: Thomas Czogalik
-tagline: Student (Software Entwickler)
-pic: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+tagline: Student (Informatik)
+pic: picture.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Hallo mein Name ist Thomas Czogalik und ich studiere Informatik (Master) am Karlsruher Institut für Technologie. 
-Während meines Studiums und meiner Tätigkeit als Wekstudent entwickelte ich ein tiefes Verständnis für Software Design und Entwicklung.
-Auch während meiner Freizeit bin ich sehr engagiert mich weiterzubilden. Dazu zählen besuche bei den Karlsruher Entwicklertagen, 
-der Microsoft Imagine Conference oder dem Google Developer Fest in Karlsruhe. Regelmäßig besuche ich auch Meetups in Karlsruhe, 
-mit Schwerpunkt Softwareentwicklung oder um neue Technologien oder um andere Bereiche kennen zu lernen. 
-In meiner Freizeit programmiere ich sehr gerne und probiere auch immer wieder neue Technologien oder Sprachen aus. 
-Hin und wieder nehme ich auch mit Freunden an Hackathons teil. 
-Bei einem durften wir auch den ersten Platz mit nach Hause nehmen (Microsoft Nikolaus Hackhathon 2016). '
+Aufgrund der Erkenntnisse und Erfahrungen, die ich während und außerhalb meines Studiums beim Entwerfen und Implementieren von verschiedenen Software-Projekten gewonnen habe, freue ich mich auf eine
+Karriere als Softwareentwickler und der Zusammenarbeit in einem Team. Während meines Studiums und als
+studentische Hilfskraft habe ich Kenntnisse in verschiedenen Programmiersprachen, vor allem Java, entwickelt.
+Neben der Software-Entwicklung konnte ich auch Erfahrung in der Qualitätssicherung von Software sammeln,
+indem ich Build-Prozesse aufgesetzt, Software-Tests geschrieben und Code-Reviews durchgeführt habe.
+Auch in meiner Freizeit spielt die Softwareentwicklung eine große Rolle. Immer wieder arbeite ich an privaten
+Projekten und probiere neue Technolgien und Programmiersprachen aus. Dabei ist bereits eine Vielzahl von
+kleinen Projekten entstanden, die ich auf meiner Github Seite pflege. Außerdem nehme ich an Hackathons
+teil, bei denen Teams in wenig Zeit eine innovative Idee entwickeln und umsetzen. Dabei wurde ein Projekt
+mit dem ersten Platz ausgezeichnet und ein weiteres Projekt schließlich im Google Play Store veröffentlicht.
+Darüber hinaus konnte ich bei Hackathons und Gruppenarbeiten während des Studiums meine Teamfähigkeiten verbessern.'
 
 #sidebar links
-email: kontakt@thomasczogalik.de
-phone: 012 345 6789
+email: thomas.czogalik@gmx.de
+#phone: 012 345 6789
 website: thomasczogalik.de #do not add http://
-linkedin: alandoe 
+#linkedin: alandoe 
 xing: Thomas_Czogalik
 github: thomcz
-twitter: '@thomczog'
+#twitter: '@thomczog'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
